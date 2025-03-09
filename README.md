@@ -1,3 +1,19 @@
+O Índice de Katz é um dos principais instrumentos utilizados para avaliar a capacidade funcional de uma pessoa no desempenho das Atividades Básicas da Vida Diária (ABVDs). Essas atividades incluem tarefas essenciais como tomar banho, vestir-se, ir ao banheiro, transferir-se, manter a continência e alimentar-se. Esse índice oferece uma abordagem estruturada para medir o nível de independência do paciente, sendo amplamente empregado em contextos clínicos e de reabilitação.
+
+Para os Terapeutas Ocupacionais, o Índice de Katz é uma ferramenta especialmente valiosa, pois possibilita a avaliação precisa da autonomia do paciente e auxilia na elaboração de planos de tratamento personalizados. A partir dos resultados obtidos, é possível desenvolver estratégias terapêuticas voltadas para a promoção da independência funcional, adaptação do ambiente e melhoria da qualidade de vida.
+
+Além disso, esse instrumento permite um acompanhamento contínuo da evolução do paciente, sendo um recurso essencial para a tomada de decisões em diferentes contextos de cuidado.
+
+Por conseguinte, o software aqui presente e entitulado "Índice de Katz", busca automatizar a aplicação desse recurso tão importante.
+
+A automatização do Índice de Katz por meio de um software representa um grande avanço para profissionais da saúde, especialmente aqueles que atuam na reabilitação e no cuidado de pacientes com perda de funcionalidade. Esse sistema permite a avaliação rápida e precisa da independência funcional, eliminando a necessidade de cálculos manuais e reduzindo a possibilidade de erros.
+
+Entre suas principais vantagens, o software analisa automaticamente os resultados, fornecendo um diagnóstico da funcionalidade do paciente. Além disso, ele acompanha a evolução do quadro clínico ao longo do tempo, gerando gráficos intuitivos e arquivos .csv que facilitam a organização e o compartilhamento das informações. Dessa forma, a equipe de saúde ou profissional pode visualizar tendências, identificar padrões e embasar suas decisões terapêuticas com maior segurança.
+
+Abaixo, encontram-se orientações para instalação e uso desse software open source.
+
+------------------------------------------------------------------------------------
+
 LINK PARA DOWNLOAD DE ARQUIVO .EXE: https://1drv.ms/u/c/8edf90a6bac56d19/Eb0OD_G_8XtJvwW02mAW4nkBUJo8_6gfitkkLAyIt5LZpg?e=tvOIhG
 
 ------------------------------------------------------------------------------------
@@ -61,4 +77,8 @@ TUTORIAL DE UTILIZAÇÃO
 13. Ademais, com um novo score. Foi gerado um gráfico linear com a progressão da paciente Ana.
 ![image](https://github.com/user-attachments/assets/fbd41f28-9770-4822-ab0a-7933a6c9d593)
 
+------------------------------------------------------------------------------------
+
+Este projeto não recebe financiamentos de terceiros e é desenvolvido e mantido em open source sem qualquer suporte financeiro. Caso queira e possa contribuir para o desenvolvimento de softwares livres brasileiros na área de saúde e reabilitação, considere uma doação, quaiquer valores são apreciados.
+Chave PIX: rapha.ed01@gmail.com
 
