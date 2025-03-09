@@ -53,7 +53,7 @@ TUTORIAL DE UTILIZAÇÃO
 ![image](https://github.com/user-attachments/assets/8f7811de-b14b-4860-84c6-5b64b4c942af)
 ![image](https://github.com/user-attachments/assets/c9237bef-8f81-41c7-b2c7-e2a63fd19629)
 
-6. Ao finalizar de inserir os valores correspondentes à avaliação do paciente, surgirão três janelas. Primeiramente, salve o arquivo .csv dos resultados do Índice Katz clicando no arquivo que surgiu com o nome/indetificação do paciente que você utilizou - este arquivo .csv será criado na mesma pasta ou diretório em que você deixou o arquivo .exe. Clique no arquivo de nome similar ao destaco na imagem abaixo ("nome_katz_scores.csv") e em "Save/Salvar". Caso peça para substituir o arquivo já existente, clique em "Sim/Ok".
+6. Ao finalizar de inserir os valores correspondentes à avaliação do paciente, surgirão três janelas. Primeiramente, salve o arquivo .csv dos resultados do Índice Katz clicando no arquivo que surgiu com o nome/indetificação do paciente que você utilizou - este arquivo .csv será criado na mesma pasta ou diretório em que você deixou o arquivo .exe. Clique no arquivo de nome similar ao destaco na imagem abaixo ("nome_katz_scores.csv") e em "Save/Salvar". Caso peça para substituir o arquivo já existente, clique em "Sim/Ok". LEMBRE-SE QUE OS ARQUIVOS GERADOS POR ESTE SOFTWARE SÃO ARMAZENADOS LOCALMENTE, TENHA PRECAUÇÃO COM SEU USO EM COMPUTADORES PÚBLICOS.
 ![image](https://github.com/user-attachments/assets/a65158f9-74fc-418d-83f0-2e3b77511e68)
 
 7. Após salvo o arquivo .csv em seu pc local. Surgirá mais uma janela. As três janelas ainda presentes correspondem à análise de resultados e representação gráfica do Índice de Katz do paciente.
